@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules
+
+# Miscellaneous
+.DS_Store
+.parcel-cache/
+.env
+.vscode/
+
+# Testing
+coverage/
+
+# Production
+/build
+/dist
